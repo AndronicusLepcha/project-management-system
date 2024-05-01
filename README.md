@@ -8,7 +8,7 @@ To get started with the Project Management System, follow these steps:
 
 ## Clone the Repository
    Clone the repository to your local machine using Git:
-   #### git clone https://github.com/yourusername/project-management-system.git
+   #### git clone https://github.com/AndronicusLepcha/project-management-system.git
 
 ## Build the Docker
     Build Docker Image and Run Docker Compose:
